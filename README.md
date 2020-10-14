@@ -26,6 +26,8 @@ More Time: Authorization, module of request args check of datatype and dat range
 
 NOTE: Please add the data to env.cfg file if you want to change the config
 
+RUN the Application: python3 run.py
+
 CURL:
 curl --location --request GET 'http://localhost:8081/stores/api/status?job_id=5f8702ad0e740b389f4a5ebb'
 
